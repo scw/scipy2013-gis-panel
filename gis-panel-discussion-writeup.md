@@ -8,7 +8,7 @@ Moderator: Kelsey Jordhal, Enthought
 
 Participants:
 
-  - Serge Ray (Arizona State U)
+  - Serge Rey (Arizona State U)
   - Shaun Walbridge (Esri)
   - Andrew Wilson (TWDB)
 

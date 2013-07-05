@@ -20,7 +20,7 @@ Earlier talks in the GIS mini-symposium by:
   - Kytt MacManus, Columbia University / CIESIN
   - Eric C. Bruning, Texas Tech University
 
-This transcript has been lightly edited for clarity, including the removal of most [fillers](http://en.wikipedia.org/wiki/Filler_(linguistics)).
+This transcript has been lightly edited for clarity, including the removal of most [fillers](http://en.wikipedia.org/wiki/Filler_(linguistics\)).
 
 [Full Video on YouTube](http://www.youtube.com/watch?v=Dn540ERYcxo) (49 min)
 
